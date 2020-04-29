@@ -1,5 +1,5 @@
 ## Manipulación del Directorio
->En caso de que el propietario de los archivos o directorio pertenezcan a otro usuario y/o tengan permisos delimitados anteceder con la palabra sudo..
+>En caso de que el propietario de los archivos o directorio pertenezcan a otro usuario y/o tengan permisos delimitados anteceder con la palabra sudo.
 ### Crear directoios
 
     mkdir nombre_directorio
